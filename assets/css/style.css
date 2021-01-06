@@ -1,0 +1,398 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+body {
+    color: #ffffff !important;
+    background: #000918 !important;
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+h1,h3
+{
+    font-weight: bold;
+}
+.after_recive{
+    text-decoration: none;
+}
+a:hover
+{
+    color: #01faf2 !important;
+}
+a:active
+{
+    color: #01faf2 !important;
+}
+.ml-50
+{
+    margin-left: 50px;
+}
+.pt-50
+{
+    padding-top: 50px;
+}
+.pb-50
+{
+    padding-bottom: 50px;
+}
+/*  Header start */
+header
+{
+    background: #000918;
+}
+.header_top
+{
+
+}
+header ul li a
+{
+    color: white !important;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+/*  Header End */
+/* store section*/
+.retal_store
+{
+    background:url('../img/aninified-background.png');
+    background-size: 100% 100%;
+}
+
+.store{
+    background:url('../img/Rental- Bot-Box.png');
+    background-size: 100% 100%;
+    text-align: center;
+    color:#01384c;
+    padding-bottom: 40px;
+}
+
+.store img{
+    margin-top:-40px;
+    margin-bottom:20px;
+}
+.store-header {
+    background: url('../img/Sec-2-bot-rental-box-upside.png');
+    height: 80px;
+    background-size: 100% 100%;
+    margin:0px 15px;
+}
+.store h3{
+    font-size:22px;
+}
+.store p{
+    font-size:22px;
+}
+.store a {
+    position: absolute;
+    bottom: -8px;
+    color: #fff;
+    font-size: 18px;
+    left: 20px;
+    text-decoration: none;
+}
+.store a:hover {
+    background: #01faf2;
+    border-radius: 20px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #000 !important;
+}
+/* store end*/
+/* section 1 start */
+.about_top
+{
+    background: url("../img/Pattrens in Header background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+.about_row
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.about button
+{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: white;
+}
+.about button:hover
+{
+    background: -webkit-linear-gradient(#01faf2, #059fc1);
+    color: white !important;
+}
+
+.after_recive
+{
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    color: black !important;
+}
+.after_recive:hover
+{
+    background: -webkit-linear-gradient(#01faf2, #059fc1);
+    color: white !important;
+}
+
+
+.ano{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#01faf2, #059fc1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.after_containt h4
+{
+    background: -webkit-linear-gradient(#01faf2, #059fc1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+.contact_data a
+{
+    color: black !important;
+    text-decoration: none !important;
+}
+.praches_icon
+{
+    font-size: 40px;
+    padding-top: 12px;
+}
+/* section 1 end */
+
+
+/* section 3 start */
+.D_pattern
+{
+    background: url("../img/Pattrens in section 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+/* section 3 end */
+
+
+.contact_data p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px !important;
+}
+
+.store p
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px !important;
+}
+.store a{
+    font-weight: bold;
+}
+/* packed start */
+.ft-1
+{
+    background: #f16c6d;
+    border-radius: 10px;
+}
+.ft-1-1
+{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 31px;
+}
+.ft-2
+{
+    background: #01384c;
+    border-radius: 10px;
+}
+.ft-4
+{
+    background: #02cad7;
+    border-radius: 10px;
+}
+.ft-2-1
+{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 31px;
+}
+ .ft-3-1
+  {
+      padding-bottom: 5px;
+      padding-top: 20px;
+      padding-left: 20px;
+      padding-right: 31px;
+  }
+ .packed h6
+ {
+     font-weight: bold;
+ }
+/* packed end */
+
+/* more question start */
+.more_img
+{
+    background: url("../img/faq.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+.q1
+{
+    text-transform: uppercase;
+    font-size: 19px;
+    color: white !important;
+    font-weight: bold;
+}
+.more_q_h p
+{
+    color: #02cad7;
+}
+.more_q1
+{
+    background: #01384c;
+    border-radius: 10px;
+}
+.more_q_h
+{
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+}
+.learn_more
+{
+    background: #01384c;
+    color: white;
+    font-weight: bold;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.learn_more1
+{
+    background: #01faf2;
+    color: white !important;
+    font-weight: bold;
+}
+.learn_more1, .learn_more:hover
+{
+    color: #1b1e21;
+    background: #01faf2;
+}
+/* more question end */
+
+/*  contactUs start */
+.form_contact
+{
+    text-align: initial;
+    width: 100%;
+}
+.form_contact label
+{
+    color: #fff !important;
+    opacity: 0.6 !important;
+}
+input-group :focus
+{
+    border-bottom: 2px solid #01faf2 !important;
+}
+.contactus input, textarea
+{
+    background: transparent !important;
+}
+.input-group-text i
+{
+    font-size: 24px !important;
+}
+.input-group-text{
+    background: transparent;
+    border-right: none;
+    border-radius: 10px 0 0 10px;
+    border-color:#4d4d4d;
+}
+.textarea
+{
+    border-radius: 10px !important;
+}
+.input-group input {
+    border-left: none !important;
+}
+.form-control
+{
+    border-radius: 0 10px 10px 0 !important;
+    border-color: #4d4d4d;
+}
+/*  contactus End */
+/*  footer start */
+footer
+{
+    border-top:3px solid #01faf2;
+
+}
+.footer_link ul
+{
+    list-style-type: none;
+}
+footer ul li a
+{
+    color: white !important;
+    font-family: 'Raleway', sans-serif;
+
+}
+/*  footer end */
+
+.owl-item img
+{
+    width: unset !important;
+}
+
+.owl-prev
+{
+    position: absolute !important;
+    top: 500px !important;
+    left: -87px !important;
+    color: #f16a6e !important;
+    font-size: 40px !important;
+}
+.owl-next
+{
+    position: absolute !important;
+    top: 500px !important;
+    right: -87px !important;
+    color: #f16a6e !important;
+    font-size: 40px !important;
+}
+.owl-dots
+{
+    display: none !important;
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+    .line_img img
+    {
+        height: 82px !important;
+        width: 100% !important;
+    }
+    .stm
+    {
+        margin-top: 35px !important;
+    }
+    .fc{
+        text-align: center !important;
+    }
+}
